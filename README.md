@@ -4,6 +4,8 @@ Welcome to my GitHub! Thanks for stopping by☺️
 
 I'm a college freshman majoring in Statistics and Data Science at UT Austin working on personal projects centered around my various interests. I haven't gotten too far yet but I'm working on it!
 
+Email: jasminexu7003@icloud.com
+
 #### My interests include: 
 - European football (mainly the English Premier League)
 - Cats
