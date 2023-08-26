@@ -1,17 +1,18 @@
 ### Hello :)
 
-Welcome to my GitHub! Thanks for stopping by☺️
+Welcome to my GitHub! Thanks for stopping by :)
 
-I'm a rising sophomore majoring in Statistics and Data Science at UT Austin working on personal projects centered around my various interests. I haven't gotten too far yet but I'm working on it!
-
-Email: jasminexu7003@icloud.com
+I'm a current sophomore majoring in Statistics and Data Science at UT Austin. I'm also aiming for a certificate in Computer Science. I enjoy coding in my free time and this is where I store my personal projects (usually based on my various interests). 
 
 #### My interests include: 
-- European football (mainly the English Premier League)
+- The English Premier League and Fantasy Premier League (but also sports in general)
 - Cats
-- Music (especially Taylor Swift)
+- Music (especially Taylor Swift) and musical analysis
 - Bioinformatics / biostatistics
-- Astronomy / astrobiology
+- Astrobiology
+- Machine learning
+
+Email: jasminexu@utexas.edu or jasminexu7003@icloud.com
 
 ![Alt Text](https://media.giphy.com/media/khFLsniJPR4hT7RicK/giphy.gif)
 
