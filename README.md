@@ -1,6 +1,6 @@
 ### Hello :)
 
-Welcome to my GitHub! Thanks for stopping by :)
+Welcome to my GitHub! Thanks for stopping by!
 
 I'm a current sophomore majoring in Statistics and Data Science at UT Austin. I'm also aiming for a certificate in Computer Science. I enjoy coding in my free time and this is where I store my personal projects (usually based on my various interests). 
 
