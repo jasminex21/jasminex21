@@ -16,20 +16,13 @@ My interests include sports (mainly the English Premier League), music, computat
 <div align="center">
   <table>
       <tr>
-          <td align="center"><a href="https://github.com/jasminex21#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=jasminex21&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only\&rank_icon=github" alt="My GitHub Stats"/></a><a href="https://github.com/jasminex21#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=jasminex21&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-          <td rowspan="2" align="center"><a href="https://github.com/jasminex21#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminex21&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/jasminex21#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminex21&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+          <td align="center"><a href="https://github.com/jasminex21#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=jasminex21&hide_rank=true&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only\&rank_icon=github" alt="My GitHub Stats"/></a><a href="https://github.com/jasminex21#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=jasminex21&hide_rank=true&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+          <td rowspan="2" align="center"><a href="https://github.com/jasminex21#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminex21&layout=donut-vertical&hide=jupyter%20notebook&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/jasminex21#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminex21&layout=donut-vertical&hide=jupyter%20notebook&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
       </tr>
       <tr>
           <td align="center"><a href="https://github.com/jasminex21#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jasminex21&theme=default"/></a><a href="https://github.com/jasminex21#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jasminex21&theme=tokyonight"/></a></td>
       </tr>
   </table>
 </div>
-
-### Current projects
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=jasminex21&repo=lyriguessr&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Lyriguessr GitHub Repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=jasminex21&repo=internship_database&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Internship Database GitHub Repo">
-</div>
-
 
 
