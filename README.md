@@ -25,12 +25,3 @@ My interests include sports (mainly the English Premier League), music, computat
   </table>
 </div>
 
----
-
-### Current projects
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=jasminex21\&repo=lyriguessr\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=jasminex21\&repo=nicknaming\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=jasminex21\&repo=internship_database\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=jasminex21\&repo=tayLyrics\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-
